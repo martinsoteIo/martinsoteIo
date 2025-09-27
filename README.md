@@ -5,10 +5,10 @@
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;Bachelor’s student in Computer Science @ UPNA (Top 5%).\
-🤖 &nbsp;I’m into robotics, computer vision, and machine learning, building systems that bridge perception ↔ action.\
-🧠 &nbsp;Curious about skill generalization, policy learning, and vision-language models for robotics.\
-🛩️ &nbsp;Hands-on with ROS 2, PX4 & Gazebo (drone simulation & integration).\
+💡 &nbsp;Bachelor’s student in Computer Science UPNA \
+🤖 &nbsp;I’m into **computer vision**, **computer graphics**, and **reinforcement learning** — building visual intelligence and interactive systems.\
+🧠 &nbsp;Curious about **generative models**, **differentiable rendering**, and **vision–language models** for perception–action loops.\
+🧪 &nbsp;Hands-on with **PyTorch**, **OpenCV**, **MuJoCo**, **Genesis**, **Fusion 360**\
 🌐 &nbsp;More about me on LinkedIn below.
 
 ### 🛠 &nbsp;Tech Stack

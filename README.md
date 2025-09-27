@@ -1,6 +1,8 @@
 <p align="center">
-  <!-- Optional banner: sube una imagen a tu repo y pega la URL debajo -->
-  <!-- <img src="TU_URL_DE_BANNER" alt="Hi, I'm Martín 👋 I'm a CS Student & Robotics Enthusiast" width="100%"> -->
+  <img
+    src="https://readme-typing-svg.demolab.com?size=28&duration=2200&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mart%C3%ADn+%F0%9F%91%8B;Robotics+%26+AI;ROS+2+%7C+PX4+%7C+Gazebo;MuJoCo+%7C+Genesis"
+    alt="Typing SVG"
+  />
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me

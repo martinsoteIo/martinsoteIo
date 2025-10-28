@@ -40,7 +40,6 @@
 <p align="center">
   <a href="https://martinsoteloaguirre.netlify.app"><img src="https://img.shields.io/badge/-martinsoteloaguirre.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/martinsoteloaguirre"><img src="https://img.shields.io/badge/-Martin%20Sotelo%20Aguirre-0077B5?style=flat&logo=logmein&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/martinsoteloaguirre"><img src="https://img.shields.io/badge/-Martin%20Sotelo%20Aguirre-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:martinsot2004@gmail.com"><img src="https://img.shields.io/badge/-martinsot2004@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 

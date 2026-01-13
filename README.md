@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;Bachelor’s student in Computer Science UPNA \
-🤖 &nbsp;I’m into **computer vision**, **computer graphics**, and **reinforcement learning** — building visual intelligence and interactive systems.\
+🤖 &nbsp;I’m into **computer vision**, **computer graphics**, and **reinforcement learning** - building visual intelligence and interactive systems.\
 🧠 &nbsp;Curious about **generative models**, **differentiable rendering**, and **vision–language models** for perception–action loops.\
 🧪 &nbsp;Hands-on with **PyTorch**, **OpenCV**, **MuJoCo**, **Genesis**, **Fusion 360**\
 🌐 &nbsp;More about me on LinkedIn below.

@@ -5,7 +5,7 @@
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;Bachelor’s student in Computer Science UPNA \
+💡 &nbsp;Master in Robotics, Graphics and Computer Vision Universidad de Zaragoza \
 🤖 &nbsp;I’m into **computer vision**, **computer graphics**, and **reinforcement learning** - building visual intelligence and interactive systems.\
 🧠 &nbsp;Curious about **generative models**, **differentiable rendering**, and **vision–language models** for perception–action loops.\
 🧪 &nbsp;Hands-on with **PyTorch**, **OpenCV**, **MuJoCo**, **Genesis**, **Fusion 360**\

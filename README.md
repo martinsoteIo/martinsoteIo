@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?size=28&duration=2200&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Mart%C3%ADn+Sotelo+%F0%9F%91%8B;I+am+a+Master+Student+in+Robotics+,+Graphics+and+Computer+Vision+%F0%9F%8E%93"
+    src="https://readme-typing-svg.demolab.com?size=28&duration=2200&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Mart%C3%ADn+Sotelo+%F0%9F%91%8B;I+am+a+MSc+Student+in+Robotics+,+Graphics+and+Computer+Vision+%F0%9F%8E%93"
   />
 </p>
 

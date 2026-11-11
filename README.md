@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?size=28&amp;duration=2200&amp;pause=900&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Hi%2C+I%27m+Mart%C3%ADn+Sotelo+%F0%9F%91%8B;I%27m+an+MSc+student+in+Robotics%2C+Graphics+and+Computer+Vision+%F0%9F%8E%93"
+    src="https://readme-typing-svg.demolab.com?size=24&amp;duration=2800&amp;pause=900&amp;center=true&amp;vCenter=true&amp;width=1200&amp;lines=Hi%2C+I%27m+Mart%C3%ADn+Sotelo+%F0%9F%91%8B;I%27m+an+MSc+student+in+Robotics%2C+Graphics+and+Computer+Vision+%F0%9F%8E%93"
     alt="Hi, I'm Martín Sotelo. I'm an MSc student in Robotics, Graphics and Computer Vision."
   />
 </p>
